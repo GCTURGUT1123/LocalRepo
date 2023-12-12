@@ -1,6 +1,6 @@
-# Project Title: Library Management System <br>
+# Project Title: Library Management System <br> <hr>
 <h2>Design and implement a Library Management System in Java that incorporates the 
-following aspects:</h2> <br>
+following aspects:</h2> <br> <hr>
 <h3>Classes.</h3><br>
 <h3><i><strong> library class:</strong></i></h3><br>
 <ul>Manages the overall system. </ul>
@@ -17,4 +17,4 @@ NonFictionBook.</ul>
 <ul>Methods to borrow/return books, display member details, etc. </ul>
 <h3><i><strong> transaction class:</strong></i></h3><br>
 <ul>Attributes: book, member, transactionDate, transactionType (borrow/return).</ul>
-<ul>Methods to log transactions, retrieve transaction history, etc. </ul>
+<ul>Methods to log transactions, retrieve transaction history, etc. </ul> <hr>
