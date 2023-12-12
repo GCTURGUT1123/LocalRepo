@@ -13,7 +13,7 @@ display information.</ul>
 <ul>For inheritance: Consider potential subclasses like FictionBook and 
 NonFictionBook.</ul>
 <h3><i><strong> member class:</strong></i></h3><br>
-<ul>Attributes: name, ID, borrowedBooks (a list of books currently borrowed).</ul>
+<ol>Attributes: name, ID, borrowedBooks (a list of books currently borrowed).</ol>
 <ul>Methods to borrow/return books, display member details, etc. </ul>
 <h3><i><strong> transaction class:</strong></i></h3><br>
 <ul>Attributes: book, member, transactionDate, transactionType (borrow/return).</ul>
