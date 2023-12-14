@@ -31,6 +31,9 @@
             when objects are printed or converted to strings. </ol>
         <ol>For instance, in the Book class, the toString() method could display all book details. </ol> <hr>
     <h3>Inheritance: </h3><br> <hr>
+        <ol>Create subclasses of Book such as FictionBook and NonFictionBook.</ol>
+        <ul>These subclasses can inherit common attributes/methods from the Book class and 
+        introduce specific characteristics or behaviors. </ul>
     <h3>Functionality to Implement: </h3><br> <hr>
         <ol> <b>Add Books:</b> Library method to add new books to the inventory.  </ol>
         <ol><b>Register Members:</b> Library method to register new members with unique IDs.  </ol>
