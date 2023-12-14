@@ -2,7 +2,7 @@
 <h2>Design and implement a Library Management System in Java that incorporates the 
     following aspects:</h2> <br> <hr>
     <h3>Classes.</h3><br><hr>
-    <ol><li><h3><i><strong> library class:</strong></i></li></h3><br>
+    <ol><h3><li><i><strong> library class:</strong></i></li></h3><br>
         <ul><li>Manages the overall system. </li>
         <li>Contains lists/arrays of books, members, and transactions. </li>
         <li>Methods to add/remove books, register members, handle transactions, and 
