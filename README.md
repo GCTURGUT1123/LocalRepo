@@ -1,7 +1,7 @@
 # Project Title: Library Management System <br> <hr>
 <h2>Design and implement a Library Management System in Java that incorporates the 
     following aspects:</h2> <br> <hr>
-    <h3>Classes.</h3><br>
+    <h3>Classes.</h3><br><hr>
     <h3><i><strong> library class:</strong></i></h3><br>
         <ul>Manages the overall system. </ul>
         <ul>Contains lists/arrays of books, members, and transactions. </ul>
